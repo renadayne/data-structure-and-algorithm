@@ -1,2 +1,2 @@
 # DSA
-Assigments Data Structure and Algorithms
+Assignments Data Structure and Algorithms
